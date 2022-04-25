@@ -21,3 +21,10 @@ p{
     padding-bottom: 30px;
 }
 
+footer {
+    width: 900px;
+    background-color: #1F1F1F;
+    padding: 5px;
+    color: white;
+    margin: auto;
+}
