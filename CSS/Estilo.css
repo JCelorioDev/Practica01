@@ -10,3 +10,14 @@
     position: relative;
     left: 17%;
 }
+
+main {
+    width: 900px;
+    text-align: center;
+    margin-left: 230px;
+}
+p{
+    background-color: wheat;
+    padding-bottom: 30px;
+}
+
