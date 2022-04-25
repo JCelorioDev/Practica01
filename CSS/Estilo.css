@@ -3,3 +3,10 @@
     margin: 0;
     padding: 0;
 }
+
+.encabezado__anime{
+    width: 900px;
+    height: 160px;
+    position: relative;
+    left: 17%;
+}
